@@ -49,7 +49,7 @@ const vcard = 'BEGIN:VCARD\n'
 prefix = '!'
 blocked = []   
 limitawal = 50
-memberlimit = 500
+memberlimit = 200
 cr = '*Kempem Bot*'
 
 /*
@@ -59,11 +59,11 @@ const ownerNumber = ["6285864236900@s.whatsapp.net","6285864236900@s.whatsapp.ne
 const botName = 'Kempem Bot'
 const ownerName = 'Fico Shopp'
 const BarBarKey = 'IDxO1TFYnKADlX4pxcHa' // APIKEY DOWNLOAD FILE
-const VhtearKey = 'APIKEY' // YANG DI YOUTUBE
+const VhtearKey = 'PUNYARAMLAN' // YANG DI YOUTUBE
 const TobzKey = 'BotWeA' // JANGAN MAU ENAK DOANG
 const XteamKey = 'APIKEY' // APIKEY XTEAM BELI SENDIRI:V
 /*
-]=====> SC BY RAMLAN ID <=====[
+]=====> SC FICO SHOPP <=====[
 */
 
 /*       
