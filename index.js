@@ -48,8 +48,8 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
-limitawal = 50
-memberlimit = 200
+limitawal = 200
+memberlimit = 0
 cr = '*Kempem Bot*'
 
 /*
