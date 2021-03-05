@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT RAMLAN CHANNEL <=====[ ]=====> 085559240360 <=====[
+]=====> FICO SHOP <=====[ ]=====> YT FICO SHOP <=====[ ]=====> 085864236900 <=====[
 */
 const {
    WAConnection,
